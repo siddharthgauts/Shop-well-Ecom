@@ -7,6 +7,10 @@
 
 # Frontend 
 
+Fully responsive 
+
+![Screenshot (615)](https://github.com/siddharthgauts/Shop-well-Ecom/assets/95357196/fb3ae514-88de-4baf-82f6-258fb6092785)
+
 ![Screenshot (610)](https://github.com/siddharthgauts/Shop-well-Ecom/assets/95357196/08b6bfce-31eb-4e18-97f4-cad0eb47b4d6)
 
 ![Screenshot (611)](https://github.com/siddharthgauts/Shop-well-Ecom/assets/95357196/c3175c59-e5b0-4fe5-b6b2-57589626b3b0)
