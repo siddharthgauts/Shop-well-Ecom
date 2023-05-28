@@ -9,6 +9,7 @@
 
 ![Screenshot (610)](https://github.com/siddharthgauts/Shop-well-Ecom/assets/95357196/08b6bfce-31eb-4e18-97f4-cad0eb47b4d6)
 
+![Screenshot (611)](https://github.com/siddharthgauts/Shop-well-Ecom/assets/95357196/c3175c59-e5b0-4fe5-b6b2-57589626b3b0)
 
 ![Screenshot (612)](https://github.com/siddharthgauts/Shop-well-Ecom/assets/95357196/c6afdea4-8516-4a59-abb9-b72690d1e0fa)
 
